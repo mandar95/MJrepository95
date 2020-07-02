@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:url("./images/beach-clouds-dark-dark-clouds-1154510.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.search-bar{
+  width:100%;
+  margin:0 0 75px;
+}
+
+
+.my-searchbar{
+  border: none !important;
+  background:none !important;
+  appearance: none !important;
+  outline: none !important;
+  background-color:rgba(255, 255, 255, 0.88) !important;
+  border-radius: 20px !important;
+}
+.my-searchbar:focus{
+  background-color: rgb(255,255,255,0.75) !important;
+}
+.my-citycard{
+  color: #e0e0e0 !important;
+  background-color:transparent !important;
+}
+.my-forecastcard{
+  color: #e0e0e0 !important;
+    background-image: linear-gradient(#fbfbfb00, #091113);
+    border: none !important;
+    background-color: transparent !important;
+}
+.my-logo{
+  background: #dedede;
+  margin-right: 3px !important;
+    padding: 0px 5px 0px 5px;
+    /* width: 44px; */
+    /* border-radius: 5px; */
+    color: #292929;
+    font-weight: bolder;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-family: initial;
+}
+
+.my-font{
+  font-size: 15px !important;
+  font-weight: 400 !important;
+}
