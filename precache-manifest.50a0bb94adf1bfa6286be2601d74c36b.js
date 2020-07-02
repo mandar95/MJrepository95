@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f513244776031aea07f25989b2618253",
+    "revision": "2d2dc4ced09d0e02a5309f6e79a3a1bb",
     "url": "/MJrepository95/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MJrepository95/static/css/2.11fe1ee6.chunk.css"
   },
   {
-    "revision": "600a44ce2539f7a00b96",
+    "revision": "33155b636a814c6bf8a2",
     "url": "/MJrepository95/static/css/main.6cecbdb5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MJrepository95/static/js/2.73430a3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "600a44ce2539f7a00b96",
-    "url": "/MJrepository95/static/js/main.32add48c.chunk.js"
+    "revision": "33155b636a814c6bf8a2",
+    "url": "/MJrepository95/static/js/main.3fc75363.chunk.js"
   },
   {
     "revision": "3b0134f6d025cfafc199",

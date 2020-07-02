@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MJrepository95/static/css/main.6cecbdb5.chunk.css",
-    "main.js": "/MJrepository95/static/js/main.32add48c.chunk.js",
-    "main.js.map": "/MJrepository95/static/js/main.32add48c.chunk.js.map",
+    "main.js": "/MJrepository95/static/js/main.3fc75363.chunk.js",
+    "main.js.map": "/MJrepository95/static/js/main.3fc75363.chunk.js.map",
     "runtime-main.js": "/MJrepository95/static/js/runtime-main.15e12095.js",
     "runtime-main.js.map": "/MJrepository95/static/js/runtime-main.15e12095.js.map",
     "static/css/2.11fe1ee6.chunk.css": "/MJrepository95/static/css/2.11fe1ee6.chunk.css",
     "static/js/2.73430a3f.chunk.js": "/MJrepository95/static/js/2.73430a3f.chunk.js",
     "static/js/2.73430a3f.chunk.js.map": "/MJrepository95/static/js/2.73430a3f.chunk.js.map",
     "index.html": "/MJrepository95/index.html",
-    "precache-manifest.caf8929eea22cfa3754927aa25891542.js": "/MJrepository95/precache-manifest.caf8929eea22cfa3754927aa25891542.js",
+    "precache-manifest.50a0bb94adf1bfa6286be2601d74c36b.js": "/MJrepository95/precache-manifest.50a0bb94adf1bfa6286be2601d74c36b.js",
     "service-worker.js": "/MJrepository95/service-worker.js",
     "static/css/2.11fe1ee6.chunk.css.map": "/MJrepository95/static/css/2.11fe1ee6.chunk.css.map",
     "static/css/main.6cecbdb5.chunk.css.map": "/MJrepository95/static/css/main.6cecbdb5.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.11fe1ee6.chunk.css",
     "static/js/2.73430a3f.chunk.js",
     "static/css/main.6cecbdb5.chunk.css",
-    "static/js/main.32add48c.chunk.js"
+    "static/js/main.3fc75363.chunk.js"
   ]
 }
